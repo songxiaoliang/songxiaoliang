@@ -13,14 +13,9 @@
 
 
 ## 我的 Github
-![](https://github-readme-stats.vercel.app/api?username=TaroXin&count_private=true&show_icons=true&theme=onedark)
+[![songlcy](https://github-readme-stats-six-mocha.vercel.app/api?username=songxiaoliang&count_private=true&title_color=e69138&text_color=666666&icon_color=f6b26b)](https://github.com/songxiaoliang)
 
 ## 联系我
 邮箱：songxlcy@gmail.com
 
 CSDN：[Songlcy的个人主页](https://blog.csdn.net/u013718120)
-
-
-
-[![songlcy](https://github-readme-stats-six-mocha.vercel.app/api?username=songxiaoliang&count_private=true&title_color=e69138&text_color=666666&icon_color=f6b26b)](https://github.com/songxiaoliang)
-
