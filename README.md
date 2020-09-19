@@ -2,7 +2,7 @@
 
 ![Android](https://img.shields.io/badge/-Android-%23E44D27?logo=android&logoColor=ffffff)
 ![React](https://img.shields.io/badge/-React-%23282C34?logo=react)
-![React Native](https://img.shields.io/badge/-React-%23282C34?logo=react-native)
+![React Native](https://img.shields.io/badge/-ReactNative-%23282C34?logo=react)
 ![Dart](https://img.shields.io/badge/-Dart-%234B32C3?logo=dart)
 ![Flutter](https://img.shields.io/badge/-Flutter-%23F05032?logo=flutter&logoColor=%23ffffff)
 ![Git](https://img.shields.io/badge/-Git-%23F05032?logo=git&logoColor=%23ffffff)
