@@ -1,7 +1,7 @@
 ## 技术栈
 
 ![Android](https://img.shields.io/badge/-Android-%23E44D27?style=for-the-badge&logo=android&logoColor=ffffff)
-![React Native](https://img.shields.io/badge/-ReactNative-%23E44D27?style=for-the-badge&logo=reactnative&logoColor=ffffff)
+![React Native](https://img.shields.io/badge/RN-react%20native-green)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=for-the-badge&logo=javascript&logoColor=000000&labelColor=%23F7DF1C&color=%23FFCE5A)
 ![React](https://img.shields.io/badge/-React-%23282C34?style=for-the-badge&logo=react)
 ![Node](https://img.shields.io/badge/-NodeJS-%23F05032?style=for-the-badge&logo=Node.js&logoColor=%23ffffff)
