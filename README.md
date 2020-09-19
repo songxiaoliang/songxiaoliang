@@ -1,11 +1,10 @@
 ## 技术栈
 
 ![Android](https://img.shields.io/badge/-Android-%23E44D27?logo=android&logoColor=ffffff)
-![React Native](https://img.shields.io/badge/-react%20native-green?logo=react)
-![JavaScript](https://img.shields.io/badge/-JavaScript-%23F7DF1C?logo=javascript&logoColor=000000&labelColor=%23F7DF1C&color=%23FFCE5A)
 ![React](https://img.shields.io/badge/-React-%23282C34?logo=react)
-![Flutter](https://img.shields.io/badge/-Flutter-%23F05032?logo=flutter&logoColor=%23ffffff)
+![React Native](https://img.shields.io/badge/-React-%23282C34?logo=react)
 ![Dart](https://img.shields.io/badge/-Dart-%234B32C3?logo=dart)
+![Flutter](https://img.shields.io/badge/-Flutter-%23F05032?logo=flutter&logoColor=%23ffffff)
 ![Git](https://img.shields.io/badge/-Git-%23F05032?logo=git&logoColor=%23ffffff)
 ![VS Code](https://img.shields.io/badge/-VSCode-%23007ACC?logo=visual-studio-code)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-%23031d30?logo=typescript)
